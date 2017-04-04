@@ -1,0 +1,58 @@
+/*#weather{*/
+    /*height: 250px;*/
+    /*width:300px;*/
+    /*border:2px solid black;*/
+   /*display:none;*/
+/*}*/
+/*#temp{*/
+    /*font-size:20px;*/
+
+/*}*/
+#welcome {
+    height: 50px;
+    width: 100%;
+    background-color: paleturquoise;
+    position: absolute;
+}
+a{
+display: block;
+padding:5px;
+}
+.a1{
+    text-align:center ;
+
+}
+#foot{
+    height:50px;
+    width:100%;
+
+    background-color: #00aecd;
+
+
+}
+#inside {
+    height: 610px;
+    width: 1380px;
+    background-color:#cccccc;
+}
+ th , td  {
+    border: 1px solid grey;
+    border-collapse: collapse;
+    padding: 5px;
+}
+table tr:nth-child(odd) {
+    background-color: #f1f1f1;
+}
+table tr:nth-child(even) {
+    background-color: #ffffff;
+}
+#emp{
+    margin-left:200px;
+}
+#tabs{
+    margin-left:265px;
+}
+h2{
+    margin-top:-90px;
+    color:#FAFAFA;
+}
